@@ -1,0 +1,53 @@
+body {
+    align-items: center;
+    font-family: 'Courier';
+    background-color: rgba(110, 90, 82, 0.918);
+    
+}
+h1{
+
+    text-align: center;
+    padding:25px;
+    color:rgba(66, 52, 46, 0.918);
+
+}
+div.box1{
+    padding:10%;
+    text-align: justify;
+    background-color: rgba(223, 214, 214, 0.116);
+    border: solid 1px rgba(128, 128, 128, 0.192);
+    border-radius: 5%;
+    color :black;
+    font-size: 30px;
+    width:85%;
+    /*height: 100px;*/
+    margin-left: 25px;
+}
+
+a{
+text-decoration: none;
+
+}
+
+.container{
+    width:70%;
+    margin-left: 10%;
+}
+
+.start {
+    
+    border: solid 1px rgba(128, 128, 128, 0.192);
+    border-radius: 5%;
+    color:rgb(233, 223, 223);
+    
+    background-color: rgba(66, 52, 46, 0.918);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding: 5%;
+    width:30%;
+    height: 25px;
+    margin-left: 38%;
+    margin-top: 160px;
+
+}
